@@ -1,3 +1,5 @@
 File2 Text
 
 EDITED AGAIN
+
+SECOND BRANCH
