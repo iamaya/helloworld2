@@ -1,3 +1,5 @@
+another commit to 3rd branch
+
 THIRD BRANCH
 
 Some Text here
